@@ -6,6 +6,9 @@ LINE_WIDTH = 2      # the width of the lines that draw player's ship and asteroi
 PLAYER_RADIUS = 20  # the radius of the player's ship
 PLAYER_TURN_SPEED = 300
 PLAYER_SPEED = 200
+SHOT_RADIUS = 5
+PLAYER_SHOOT_SPEED = 500
+PLAYER_SHOOT_COOLDOWN_SECONDS = 0.3
 
 ASTEROID_MIN_RADIUS = 20
 ASTEROID_KINDS = 3
